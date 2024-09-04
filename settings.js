@@ -17,7 +17,7 @@ module.exports = {
     },
     credits: {
       developerId: '948937171031695411',
-      supportServer: 'https://discord.gg/teamkronix'
+      supportServer: 'https://dsc.gg/discronix'
     },
   }
 }
